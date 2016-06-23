@@ -1,5 +1,3 @@
-lock '3.4.0'
-
 set :application, 'brainana_shop'
 set :repo_url, 'git@github.com:tonytonyjan/brainana_shop.git'
 set :deploy_to, '/home/rails/shop-demo'
